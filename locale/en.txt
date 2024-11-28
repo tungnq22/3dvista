@@ -1,0 +1,21 @@
+#: locale=en
+
+## Media
+
+### Title
+model_4722A285_5384_6FE5_41BA_3EA3B989FFA2.label = coffee maker - Copy
+
+## Skin
+
+### Image
+Image_486B536D_539C_AD24_41C2_0D625B2ECE6E.url = skin/Image_486B536D_539C_AD24_41C2_0D625B2ECE6E_en.png
+Image_4A0E98A3_56A4_70F1_4196_6FA0D2919EC2.url = skin/Image_4A0E98A3_56A4_70F1_4196_6FA0D2919EC2_en.png
+Image_4A3DA37C_56A4_F057_41C4_DEEFF1CF6EC1.url = skin/Image_4A3DA37C_56A4_F057_41C4_DEEFF1CF6EC1_en.png
+Image_4B02D508_539C_6AEB_41C2_7BCA96B7D09A.url = skin/Image_4B02D508_539C_6AEB_41C2_7BCA96B7D09A_en.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Phân giã đồ vật
